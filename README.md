@@ -76,13 +76,9 @@ Here are some screenshots of how the application appears in the web browser:
 ![alt text](Aboutus.png) 
 
 
-//![About](https://user-images.githubusercontent.com/73832871/122608451-21fdd880-d074-11eb-8da5-f9810ff86768.JPG)
-
 6. Contact Page:
 
 ![alt text](Contactus.png) 
-<!-- 
-//![Contact](https://user-images.githubusercontent.com/73832871/122608460-26c28c80-d074-11eb-993f-789037c78074.JPG) -->
 
 ### Built With
 
