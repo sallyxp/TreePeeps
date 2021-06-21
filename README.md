@@ -10,7 +10,7 @@
 <h3 align="center"><em>A tree-planting app for tree-minded people</em></h3>
 </p>
 
-
+My app is deployed in Heroku here: https://boiling-tundra-25161.herokuapp.com/#/
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
